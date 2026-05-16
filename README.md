@@ -40,7 +40,7 @@ cd Linear_Regression
 ```
 3. **Install required libraries**
 ```
-pip install pandas numpy matplotlib seaborn jupyter
+pip install pandas numpy matplotlib seaborn jupyter scikit-learn
 ```
 4. **Run the notebook**
 ```
