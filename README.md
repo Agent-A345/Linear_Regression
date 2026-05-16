@@ -27,6 +27,7 @@ Linear_Regression/
 - NumPy
 - Matplotlib
 - Seaborn
+- Scikit-learn
   
 ## 🛠️ How to Run
 1. **Clone the repository**:
